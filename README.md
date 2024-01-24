@@ -5,9 +5,6 @@ This Project is done through the jonas schemdtann react course. In this Project 
 # 
 https://github.com/Neo7793/use-popcorn/assets/134860589/c2beb6c0-af4e-4231-b1e0-a842614bb92b
 
-# You can check it on :
-
-https://sina-world-wise.netlify.app/
 
 
 # Skill that used in this project
